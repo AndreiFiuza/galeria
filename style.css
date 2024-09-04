@@ -1,0 +1,28 @@
+h1{
+    background-color: darkred;
+    text-align: center;
+}
+
+img{
+    background-color: black;
+    color: black;
+    height: 325px;
+    border: solid white 7px;
+}
+
+body{
+    background-color: black;
+}
+
+td{
+   box-shadow: 10px 10px 10px;
+   border: solid white 7px;
+}
+table{
+    margin-left: 80px;
+
+}
+h3{
+    background-color: darkred;
+    text-align: center;
+}
